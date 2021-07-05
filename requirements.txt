@@ -5,3 +5,4 @@ openpyxl
 voila
 xlrd >= 1.0.0
 jupyter_contrib_nbextensions
+nbinteract>=0.2.5
